@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" width="128" alt="WorkshopDrop icon"></p>
+
 # WorkshopDrop
 
 **Paste a Steam Workshop link, and the addon gets installed on your Garry's Mod dedicated server.**
