@@ -8,6 +8,8 @@ WorkshopDrop is a small Windows app for people who run their own GMod server. It
 
 No Lua knowledge, no `gmad.exe`, no manual unpacking.
 
+<p align="center"><img src="docs/demo.gif" alt="WorkshopDrop demo: paste a link, install, Installed tab" width="720"></p>
+
 ## Features
 
 - Paste one or many links (or plain ids). **Collections** work too: you get a checklist of every item.
@@ -20,6 +22,12 @@ No Lua knowledge, no `gmad.exe`, no manual unpacking.
 - **Installed** tab: every installed addon with size and date, plus Open in Workshop, Update and Remove buttons.
 - Warnings for maps (better added to your Workshop collection) and addons that look empty.
 - Detects a running `srcds_win64.exe` and reminds you to restart. It never stops or restarts the server itself.
+
+## Screenshots
+
+| Install | Installed |
+|---|---|
+| <img src="docs/screenshot.png" alt="Install tab after installing an addon" width="420"> | <img src="docs/installed.png" alt="Installed tab with Update and Remove buttons" width="420"> |
 
 ## Download
 
